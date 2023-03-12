@@ -9,7 +9,8 @@
 		4. Rukou držíce otvírák uvolníme uzávěr lahve svižným pohybem vzhůru
 		5. Uzávěr likvidujeme dle pokynů výrobce a nápoj vychutnáváme
 	- ## Katalogový list
-		- ![iOpener](iOpener.jpg)
+		<img src="iOpener.jpg" width=500px>
+		
 		- Celokovové provedení z japonské damaškové nerezové oceli
 		- Povrchová protikorozní úprava z rhodia
 		- Univerzální otvor na konvenční korunkový uzávěr s průměrem, 32,1 mm
